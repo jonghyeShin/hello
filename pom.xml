@@ -3,6 +3,9 @@
   <groupId>jonghye</groupId>
   <artifactId>HelloWorld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+  <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+  </properties>
   <name>helloWorld</name>
-  <description>dd</description>
+  <description>ddd</description>
 </project>
